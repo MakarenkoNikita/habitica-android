@@ -135,7 +135,7 @@ android {
     }
 
     bundle.language.enableSplit = false
-    packaging.resources.excludes.add("META-INF/*")
+//    packaging.resources.excludes.add("META-INF/*")
 }
 
 tasks.withType<AndroidLintTask> { enabled = false }
