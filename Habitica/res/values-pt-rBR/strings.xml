@@ -267,16 +267,16 @@
     <string name="choose_recipient_title">Escolha o destinatário da mensagem</string>
     <string name="action_continue">Continuar</string>
     <string name="invited_to_party">Você foi convidado(a) para um grupo!</string>
-    <string name="stats_widget_label">Estatísticas do Habitica</string>
+    <string name="stats_widget_label">Seu desempenho</string>
     <string name="add_task">Adicionar Tarefa</string>
     <string name="add_habit">Adicionar Hábito</string>
     <string name="add_daily">Adicionar Diária</string>
     <string name="add_todo">Adicionar Afazer</string>
     <string name="add_reward">Adicionar Recompensa</string>
     <string name="all_dailies_completed">Você completou todas as suas Diárias. Parabéns!</string>
-    <string name="widget_habit_button">Habitica Hábitos</string>
-    <string name="widget_dailies">Habitica Diárias</string>
-    <string name="widget_todo_list">Habitica Lista de Afazeres</string>
+    <string name="widget_habit_button">Hábito</string>
+    <string name="widget_dailies">Lista de Diárias</string>
+    <string name="widget_todo_list">Lista de Afazeres</string>
     <string name="google_services_missing">Serviços da Google Play não foram encontrados.</string>
     <string name="gem_purchase_toolbartitle">Comprar</string>
     <string name="gem_purchase_title">A compra de gemas apóia os desenvolvedores e ajuda a manter o Habitica funcionando</string>
@@ -431,8 +431,8 @@
     <string name="quest_abort_message">Tem certeza que quer abortar a missão? Isso vai abortar para todos do seu grupo e todo o progresso será perdido. O pergaminho de missão será devolvido ao dono.</string>
     <string name="reloading_content">Recarregando Conteúdo</string>
     <string name="thousand_abbrev">k</string>
-    <string name="million_abbrev">mi</string>
-    <string name="billion_abbrev">bi</string>
+    <string name="million_abbrev">m</string>
+    <string name="billion_abbrev">b</string>
     <string name="available_until">Disponível até %s</string>
     <string name="gems_left_max">Gemas Mensais: %1$d/%2$d Restando</string>
     <string name="gems_left_nomax">Gemas Mensais: %d Restando</string>
@@ -643,7 +643,7 @@
     <string name="new_msg_party">Seu Grupo, <b>%1$s</b>, tem novas publicações</string>
     <string name="unallocated_stats_points"><![CDATA[Você tem <b>%1$s</b> Pontos de Atributos não distribuidos]]></string>
     <string name="new_subscriber_item">Você possui novos <b>Itens Misteriosos</b></string>
-    <string name="invited_to_party_notification"><![CDATA[<font color=#925CF3>%1$s</font> Você foi convidado para entrar em um Grupo <b>%2$s</b>]]></string>
+    <string name="invited_to_party_notification"><![CDATA[<font color="#925CF3">%1$s</font> convidou você para se juntar ao grupo <b>%2$s</b>]]></string>
     <string name="invited_to_quest"><![CDATA[Você foi convidado para a Missão <b>%1$s</b>]]></string>
     <string name="g1g1_info_2">Como funciona</string>
     <string name="gift_a_subscription">Dê uma assinatura de presente</string>
@@ -888,7 +888,7 @@
 \n
 \nSe seu **PV chegar a 0**, você irá perder um nível, todo seu Ouro e alguma peça de equipamento. O equipamento perdido pode ser comprado novamente.</string>
     <string name="health_points">Pontos de Vida</string>
-    <string name="stats_currency">Atributos &amp; Moedas</string>
+    <string name="stats_currency"><![CDATA[Atributos &amp; Moedas]]></string>
     <string name="how_best_habitica">Não tem certeza da melhor maneira de usar o Habitica\?</string>
     <string name="overview">Visão geral</string>
     <string name="send_bug_prompt">Envie-nos um relatório sobre o bug e entraremos em contato com você!</string>
@@ -896,8 +896,8 @@
     <string name="support_bug_title">Estamos constantemente tentando melhorar nossos aplicativos com base nos comentários dos(as) jogadores(as), mas às vezes aparecem alguns erros…</string>
     <string name="lets_go">Vamos lá</string>
     <string name="bugs_fixes_description">Algo deu errado\? Verifique as respostas aqui ou entre em contato conosco para obter ajuda.</string>
-    <string name="bugs_fixes">Bugs &amp; Correções</string>
-    <string name="suggestions_feedback">Sugestões &amp; Comentários</string>
+    <string name="bugs_fixes"><![CDATA[Bugs &amp; Correções]]></string>
+    <string name="suggestions_feedback"><![CDATA[Sugestões &amp; Comentários]]></string>
     <string name="get_help">Obter ajuda</string>
     <string name="contact_us">Contate-nos</string>
     <string name="suggestions_feedback_description">Você tem informações sobre como os recursos podem funcionar melhor ou uma ideia para algo novo\? Conte-nos!</string>
@@ -945,7 +945,7 @@
     <string name="update_app">Atualizar o aplicativo</string>
     <string name="manual_sync_restart_description">Algumas vezes, o aplicativo não irá atualizar o conteúdo automaticamente. Tente puxar para baixo para atualizá-lo ou, então, force o fechamento do aplicativo e tente reabri-lo.</string>
     <string name="manual_sync_restart">Sincronização manual ou reinicialização</string>
-    <string name="clear_cache_description">Para limpar seu cache, abra as Configurações do aplicativo no seu celular. Vá até Armazenamento &gt; Aplicativos &gt; Habitica, então toque em \"Limpar cache\".</string>
+    <string name="clear_cache_description"><![CDATA[Para limpar seu cache, abra as Configurações do aplicativo no seu celular. Vá até Armazenamento &gt; Aplicativos &gt; Habitica, então toque em \"Limpar cache\".]]></string>
     <string name="clear_cache">Limpar seu cache</string>
     <string name="hourglasses_description">Ampulhetas Místicas são uma forma extremamente rara de moeda que você só recebe ao se inscrever no Habitica. Você pode usá-las na Loja dos Viajantes do Tempo para comprar conjuntos de Equipamentos de Assinantes antigos, Pets exclusivos, Montarias, Fundos animados ou até mesmo Missões especiais! Esses benefícios extras são uma ótima maneira de se manter motivado durante o ano e se recompensar por um trabalho bem feito.
 \n
@@ -1695,9 +1695,9 @@
     <string name="new_message">Nova mensagem</string>
     <string name="scroll_to_new_messages">Ir para novas mensagens</string>
     <string name="auth_invalid_credential_type">Tipo de credencial inválido recebido.</string>
-    <string name="avatar_widget_label">Avatar do Habitica</string>
-    <string name="widget_dailies_count">Contagem Diária do Habitica</string>
-    <string name="widget_add_task">Habitica Adicionar Tarefa</string>
-    <string name="widget_add_task_multi">Habitica Adicionar Tarefas</string>
+    <string name="avatar_widget_label">Seu avatar</string>
+    <string name="widget_dailies_count">Contagem Diária</string>
+    <string name="widget_add_task">Criar Tarefa</string>
+    <string name="widget_add_task_multi">Criar multitarefa</string>
     <string name="fifth_week_warning">Esta tarefa não aparecerá como pendente durante meses com menos %1$ss.</string>
 </resources>
