@@ -258,7 +258,7 @@
     <string name="choose_recipient_title">Wybierz odbiorcę wiadomości</string>
     <string name="action_continue">Kontynuuj</string>
     <string name="invited_to_party">Zostałeś zaproszony do drużyny!</string>
-    <string name="stats_widget_label">Statystyki Habitiki</string>
+    <string name="stats_widget_label">Twoje Statystyki</string>
     <string name="add_task">Dodaj Zadanie</string>
     <string name="add_habit">Dodaj Nawyk</string>
     <string name="add_daily">Dodaj Codzienne</string>
@@ -266,8 +266,8 @@
     <string name="add_reward">Dodaj Nagrodę</string>
     <string name="all_dailies_completed">Wykonałeś wszystkie Codzienne Zadania. Brawo!</string>
     <string name="widget_habit_button">Nawyk Habitiki</string>
-    <string name="widget_dailies">Codzienne Habitiki</string>
-    <string name="widget_todo_list">Lista Do Zrobienia w Habitice</string>
+    <string name="widget_dailies">Lista Codziennych</string>
+    <string name="widget_todo_list">Lista Do Zrobienia</string>
     <string name="google_services_missing">Nie znaleziono usługi Google Play.</string>
     <string name="gem_purchase_toolbartitle">Kup</string>
     <string name="gem_purchase_title">Kupując klejnoty, wspierasz deweloperów Habitiki i pozwalasz projektowi istnieć</string>
@@ -1228,4 +1228,7 @@
     <string name="rejoin_party_quest_leader">Nie będziesz miał możliwości dołączenia ponownie do tej drużyny dopóki ktoś Cię nie zaprosi.
 \n
 \nOpuszczenie drużyny sprawi również, że obecna misja zostanie anulowana.</string>
+    <string name="avatar_widget_label">Twoja Postać</string>
+    <string name="widget_dailies_count">Podsumowanie Codziennych</string>
+    <string name="widget_add_task">Stwórz Zadanie (Pojedyncze)</string>
 </resources>
