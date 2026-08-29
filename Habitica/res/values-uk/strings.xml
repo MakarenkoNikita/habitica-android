@@ -469,7 +469,7 @@
     <string name="support">Підтримка</string>
     <string name="update_app">Обновіть додаток</string>
     <string name="manual_sync_restart">Ручна синхронізація і перевентаження</string>
-    <string name="clear_cache_description">Щоб очистити кеш, відкрийте налаштування свого телефону. Зайдіть в Сховище &gt; Додатки &gt; Habitica, потім клікніть Очистити кеш.</string>
+    <string name="clear_cache_description"><![CDATA[Щоб очистити кеш, відкрийте на телефоні налаштування. Перейдіть до розділу Пам’ять &gt; Програми &gt; Habitica, а потім натисніть «Очистити кеш».]]></string>
     <string name="clear_cache">Очистити свій кеш</string>
     <string name="subscriber_currency">Валюта підписників</string>
     <string name="game_mechanics">Механіки гри</string>
@@ -686,14 +686,14 @@
     <string name="gem_purchase_title">Підписка підтримує розробників та допомагає забезпечувати роботу Habitica</string>
     <string name="gem_purchase_toolbartitle">Придбати</string>
     <string name="google_services_missing">Сервіс Google Play не знайдено.</string>
-    <string name="widget_todo_list">Список завдань Habitica</string>
+    <string name="widget_todo_list">Список завдань</string>
     <string name="all_dailies_completed">Ви завершили всі свої щоденки. Так тримати!</string>
     <string name="add_reward">Додати нагороду</string>
     <string name="add_todo">Додати завдання</string>
     <string name="add_daily">Додати щоденку</string>
     <string name="add_habit">Додати звичку</string>
     <string name="add_task">Додати завдання</string>
-    <string name="stats_widget_label">Характеристики Habitica</string>
+    <string name="stats_widget_label">Ваша статистика</string>
     <string name="invited_to_party">Вас запросили до команди!</string>
     <string name="action_continue">Продовжити</string>
     <string name="choose_recipient_title">Оберіть отримувача</string>
@@ -819,8 +819,8 @@
     <string name="empty_description_dailies">Щоденні завдання - це завдання, які повторюються регулярно. Вибери розклад, котрий пасує саме тобі!</string>
     <string name="subscribe_listitem5_description">Отримайте королівського фіолетового Кроленя, а також подвойте щоденну кількість яєць, інкубаційних еліксирів та їжі, щоб колекціонувати ще більше улюбленців!</string>
     <string name="gem_purchase_listitem3">Квести, нагородою в яких є яйця з улюбленцями</string>
-    <string name="widget_dailies">Щоденні завдання Habitica</string>
-    <string name="widget_habit_button">Звички Habitica</string>
+    <string name="widget_dailies">Список Щоденок</string>
+    <string name="widget_habit_button">Одинарна звичка</string>
     <string name="wear_costume">Одягнути наряд</string>
     <string name="outfit_weapon">Права рука</string>
     <string name="outfit_shield">Ліва рука</string>
@@ -934,7 +934,7 @@
     <string name="percent_completed">%d%% завершено</string>
     <string name="lets_get_started">Приступаємо</string>
     <string name="your_progress">Ваш прогрес</string>
-    <string name="complete_for_gold">Виконайте, щоб отримати &lt;font color=#EE9109&gt;&lt;b&gt;100 золота&lt;/b&gt;&lt;/font&gt;!</string>
+    <string name="complete_for_gold"><![CDATA[Виконайте, щоб отримати <font color="#EE9109"><b>100 золота</b></font>!]]></string>
     <string name="onboarding_tasks">Перші завдання</string>
     <string name="task_display">Відображення списку завдань</string>
     <string name="pet_ownership_fraction">%1$d / %2$d</string>
@@ -1035,7 +1035,7 @@
     <string name="excess_items">Зайві предмети</string>
     <string name="onboardingComplete_achievement_title">Ви виконали свої перші завдання!</string>
     <string name="onboardingCompleteDescription">Хочет більше\? Подивіться список досягнень і почніть збирати колекцію!</string>
-    <string name="onboardingCompleteTitle">Ви отримали &lt;b&gt;5 досягнень&lt;/b&gt; та &lt;font color=#EE9109&gt;&lt;b&gt;100 золота&lt;/b&gt;&lt;/font&gt; за Ваші зусилля.</string>
+    <string name="onboardingCompleteTitle"><![CDATA[Ви отримали <b>5 досягнень</b> та <font color="#EE9109"><b>100 золота</b></font> за Ваші зусилля.]]></string>
     <string name="first_drop_title">Ви знайшли нові предмети!</string>
     <string name="go_to_items">Перейдіть до інвентаря</string>
     <string name="first_drop_explanation2">Перейдіть до своїх предметів та спробуйте об\'єднати яйце так інкубаційне зілля!</string>
@@ -1149,7 +1149,7 @@
     <string name="subscription_confirmation_multiple">Ви оформили підписку на %s місяці(-в)</string>
     <string name="subscription_confirmation">Ви оформили підписку на 1 місяць</string>
     <string name="gem_purchase_confirmation">Ви отримали %s самоцвіт(-и/ів).</string>
-    <string name="adventure_guide_description_new">Виконайте дані цілі і отримаєте &lt;b&gt;5 досягнень&lt;/b&gt; та &lt;font color=#EE9109&gt;&lt;b&gt;100 золота&lt;/b&gt;&lt;/font&gt; відразу по завершенню!</string>
+    <string name="adventure_guide_description_new"><![CDATA[Виконайте дані цілі і отримаєте <b>5 досягнень</b> та <font color="#EE9109"><b>100 золота</b></font> відразу по завершенню!]]></string>
     <string name="starting_objectives">Початкові цілі</string>
     <string name="switch_class">Змінити клас</string>
     <string name="onboarding_objectives">Початкові цілі</string>
@@ -1356,13 +1356,13 @@
     <string name="subscribe_listitemFaint">Отримайте другий шанс</string>
     <string name="mages">Маги</string>
     <plurals name="repeat_daily">
-        <item quantity="one">кожен день</item>
+        <item quantity="one">%d щодня</item>
         <item quantity="few">кожні %d дні</item>
         <item quantity="many">кожні %d днів</item>
         <item quantity="other">кожні %d днів</item>
     </plurals>
     <plurals name="repeat_weekly">
-        <item quantity="one">кожен тиждень</item>
+        <item quantity="one">кожен %d тиждень</item>
         <item quantity="few">кожні %d тижні</item>
         <item quantity="many">кожні %d тижнів</item>
         <item quantity="other">кожні %d тижнів</item>
@@ -1454,15 +1454,15 @@
     <string name="report_player_toolbar_title">Поскаржитися на %s</string>
     <string name="quest_mechanics_damage_description">Шкода босу розраховується щоразу, коли учасник команди відмічається протягом дня. Ця шкода зараховується наступного разу, коли ви виконуєте дію, що синхронізується з сервером. Шкода босу записується у чаті вашої команди.</string>
     <string name="quest_mechanics_collecting_description">Під час Квесту зі Збиранням, виконуйте свої завдання, щоб отримати випадковий шанс знайти предмет квесту. Очікувані предмети будуть зараховані під час наступного скидання дня. Сприйняття підвищує шанси на отримання предметів.</string>
-    <string name="invited_to_guild_notification">&lt;font color=#925CF3&gt;%2$s&lt;/font&gt; запросив вас приєднатися до групи &lt;b&gt;%1$s&lt;/b&gt;</string>
-    <string name="widget_dailies_count">Лічильник щоденних завдань Habitica</string>
-    <string name="widget_add_task">Додавання завдання до Habitica</string>
+    <string name="invited_to_guild_notification"><![CDATA[<font color="#925CF3">%2$s</font> запросив вас приєднатися до групи <b>%1$s</b>]]></string>
+    <string name="widget_dailies_count">Щоденний зведення</string>
+    <string name="widget_add_task">Створити завдання (одне)</string>
     <string name="change_username_description">Ім’я користувача має містити від 1 до 20 символів і містити лише літери від a до z, цифри від 0 до 9, дефіси або підкреслення.</string>
     <string name="report_reason_title_message">Чому ви скаржитеся на це повідомлення\?</string>
     <string name="rebirth_enabled_description">Використовуйте Кулю Переродження, щоб вдихнути нове життя у свою пригоду в Habitica, коли відчуєте, що досягли всього! Почніть спочатку з 1-го рівня, зберігши свої завдання, досягнення та улюбленців за допомогою цього особливого предмета, який можна знайти на Ринку.</string>
-    <string name="avatar_widget_label">Аватар Habitica</string>
+    <string name="avatar_widget_label">Ваш аватар</string>
     <string name="gems_promo_info_limitations_fixed">Ця акція діє лише під час події обмеженого часу. Подія розпочнеться %1$s (%2$s) і закінчиться %3$s (%4$s). Промо-пропозиція доступна лише при купівлі Самоцвітів для себе.</string>
-    <string name="widget_add_task_multi">Додавання завдань до Habitica</string>
+    <string name="widget_add_task_multi">Створити завдання (комбіноване)</string>
     <string name="report_reason_title_challenge">Чому ви скаржитеся на це випробування\?</string>
     <string name="report_formatted_name">%1$s
 \n@%2$s</string>
@@ -1687,7 +1687,7 @@
     <string name="next_switch_in_x">Наступне перемикання через %s</string>
     <string name="fall">Осінь</string>
     <plurals name="repeat_monthly">
-        <item quantity="one">кожен місяць</item>
+        <item quantity="one">кожен %d місяць</item>
         <item quantity="few">кожні %d місяці</item>
         <item quantity="many">кожні %d місяців</item>
         <item quantity="other">кожні %d місяців</item>
@@ -1698,7 +1698,7 @@
     <string name="you_own_all_items">Ви володієте всіма цими предметами</string>
     <string name="auth_missing_token">Отримано порожній токен.</string>
     <plurals name="repeat_yearly">
-        <item quantity="one">кожен рік</item>
+        <item quantity="one">кожен %d рік</item>
         <item quantity="few">кожні %d роки</item>
         <item quantity="many">кожні %d років</item>
         <item quantity="other">кожні %d років</item>
